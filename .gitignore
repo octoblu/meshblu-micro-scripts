@@ -26,3 +26,5 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+meshblu-micro-scripts.sublime-workspace
+meshblu.json
